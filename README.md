@@ -1,6 +1,6 @@
 echo "# Cek PHP di windows"
 
-git init
+git init"
 git config --global user.email sam@google.com
 git commit –m “keterangan comit”
 git branch -M main
